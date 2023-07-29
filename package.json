@@ -1,0 +1,19 @@
+{
+  "name": "mycontacts-backend-api",
+  "version": "1.0.0",
+  "description": "this is expres for my contacts backend api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hjasaiwal114/contact-managment-app.git"
+  },
+  "author": "Himanshu jasaiwal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hjasaiwal114/contact-managment-app/issues"
+  },
+  "homepage": "https://github.com/hjasaiwal114/contact-managment-app#readme"
+}
